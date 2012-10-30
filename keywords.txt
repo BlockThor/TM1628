@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map For TM1638 Lib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TM1628	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begine	KEYWORD2
+update	KEYWORD2
+clear	KEYWORD2
+setSeg	KEYWORD2
+setTime	KEYWORD2
+getButtons	KEYWORD2
+setLEDon	KEYWORD2
+setLEDoff	KEYWORD2
+				
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LED_SE0 LITERAL1
+LED_SE1 LITERAL1
+LED_SE2 LITERAL1
+LED_SE3 LITERAL1
+LED_SE4 LITERAL1
+LED_SE5 LITERAL1
+LED_SE6 LITERAL1
+LED_SE7 LITERAL1
+LED_DVD LITERAL1
+LED_VCD LITERAL1
+LED_MP3 LITERAL1
+LED_PLY LITERAL1
+LED_PAU LITERAL1
+LED_PBC LITERAL1
+LED_RET LITERAL1
+LED_DTS LITERAL1
+LED_DDD LITERAL1
+LED_CL1 LITERAL1
+LED_CL2 LITERAL1
