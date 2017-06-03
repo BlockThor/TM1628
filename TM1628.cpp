@@ -101,7 +101,7 @@ byte TM1628::getButtons() {
   return keys;
 }
 
-void TM1628::write(byte chr){
+size_t TM1628::write(byte chr){
 	if(_curpos<0x07) {
 		setChar(_curpos, chr);
 		_curpos++;
