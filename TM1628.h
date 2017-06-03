@@ -47,7 +47,7 @@ class TM1628 : public Print
 	void setSeg(byte addr, byte num);
 	void setChar(byte _curpos, byte chr);
 	void setCursor(byte pos);
-	virtual void write(byte chr);
+	virtual size_t write(byte chr);
 	void setTime(int hour, int min, int sec);
 	void setLED(byte led);
 	void setLEDon(byte led);
