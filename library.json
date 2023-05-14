@@ -5,7 +5,7 @@
   "keywords": "led, display",
   "repository": {
     "type": "git",
-    "url": "https://github.com/syk01/TM1628.git"
+    "url": "https://github.com/BlockThor/TM1628.git"
   },
   "frameworks": "arduino",
   "platforms": "*"
