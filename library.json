@@ -1,0 +1,12 @@
+{
+  "name": "TM1628",
+  "version": "1.0.0",
+  "description": "A library for interacting an arduino with the dvd's LED display TM1628",
+  "keywords": "led, display",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syk01/TM1628.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
